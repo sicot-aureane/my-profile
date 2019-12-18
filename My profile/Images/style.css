@@ -1,0 +1,50 @@
+body {	
+background-color: rgb(200, 200, 200);
+color: rgb(20, 20, 20);
+front-family: 'Gelasio', serif;
+	background: #FBE3b9;
+	color: black;
+}
+h1, h2, h3{	
+	front-family: Courier;
+}
+h1{
+	color: #C72C41;
+	front-weight: 900;
+	front-size: 100px;
+}
+
+h2{
+color: rgb(100, 100, 100);
+front-size: 24px;
+front-weight: 300;
+}
+a{
+text-decoration: none;
+color:red;	
+}
+body{
+	<div style
+}
+<element.style {
+width: 700px
+<margin: 40px;
+}
+
+element-style{
+	background: white;
+	padding: 60px;
+	margin: 50px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0. 1);
+	border-radius: 4px;
+}
+div{
+	background: white;
+	border:2px solid black;
+}
+element-style{
+width: 300px;
+margin: 30px auto;
+}
+
+
